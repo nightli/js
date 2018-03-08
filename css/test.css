@@ -1,0 +1,36 @@
+.square{
+	width: 500px;
+	height: 500px;
+	margin: 60px auto;
+	border: 1px solid red;
+	position: relative;
+}
+
+.btn_start{
+	width: 255px;
+	height: 255px;
+	background-color: red;
+	border:0px;
+	position: absolute;
+	top: 125px;
+	left: 110px;
+	line-height: 225px;
+	text-align: center;
+}
+
+.circle {
+	width: 20px;
+	height: 20px;
+	border: 1px solid black;
+	border-radius: 50%;
+	margin: 38px;
+	float: left;
+}
+
+.y {
+	background-color: yellow;
+}
+
+.b{
+	background-color: black;
+}
